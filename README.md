@@ -85,7 +85,11 @@ This project showcases practical implementation of Agentic AI principles and col
 
 Author
 
-Mohit Kumar
+Mohit Kumar :- System Architecture & Agent Logic
+Mohit Chauhan :- Frontend and presentation
+Mouli Shukla :- Frontend
+Naman Pandey :- Documentation
+Nikhil Javeri :- Documentation
 Final Year B.Tech (CSE – Machine Learning Specialization)
 Medicaps University
 
