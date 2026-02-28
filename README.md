@@ -56,6 +56,11 @@ Modular Programming
 Agent-Based Logical Architecture
 Command-Line Interface
 
+## Requirements
+
+Python 3.8+
+No external dependencies required.
+
 Key Features
 
  Single car detailed description
