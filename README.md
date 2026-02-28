@@ -64,15 +64,6 @@ Key Features
  Modular three-agent structure
  Clean and scalable design
 
-How to Run the Project
-
-Clone the repository: git clone https://github.com/your-username/MultiAgent-Automotive-System.git
-
-Navigate to project folder: cd MultiAgent-Automotive-System
-
-Run the program: python multiagent_automotive.py
-
-
 Use Cases
 
 Automobile advisory systems
